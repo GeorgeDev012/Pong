@@ -1,0 +1,8 @@
+#anchorPane {
+    -fx-background-image: url("/resources/background.jpeg");
+    -fx-background-repat: stretch;
+    -fx-background-size: 800 300;
+    -fx-background-position: center center;
+
+}
+
